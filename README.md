@@ -1,8 +1,16 @@
 # Italian Translators
 
-Vue/Vite source for the Italian Translators directory site.
+A small Vue/Vite site with a directory of Italian translators grouped by city
+and country.
 
-## Development
+## Stack
+
+- Vue 3
+- Vite
+- PrimeVue
+- Sass
+
+## Local development
 
 ```sh
 npm install
@@ -15,5 +23,7 @@ npm run dev
 npm run build
 ```
 
-The production build is published to GitHub Pages at
-`https://cudrx.github.io/italiantranslators/`.
+## Deployment
+
+The site is deployed to GitHub Pages:
+`https://cudrx.github.io/italiantranslators/`
